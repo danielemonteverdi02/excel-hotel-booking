@@ -17,7 +17,7 @@ The complete Excel file containing:
 
 is available here:
 
-[📊 Download Excel Dashboard](https://drive.google.com/uc?export=download&id=1siMbL324IhNcKjkrEukAnT761hXNJp38))
+[📊 Download Excel Dashboard](https://drive.google.com/uc?export=download&id=1siMbL324IhNcKjkrEukAnT761hXNJp38)
 
 **Note:** The complete Excel workbook is relatively large (~120 MB)
 

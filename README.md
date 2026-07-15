@@ -8,6 +8,21 @@ Unlike a simple visualization project, the entire process includes **data cleani
 
 ---
 
+The complete Excel file containing:
+- Data Quality Check
+- Pivot Analysis
+- Overview Dashboard
+- Customer Analysis Dashboard
+- Market & Geography Dashboard
+
+is available here:
+
+[📊 Download Excel Dashboard](https://docs.google.com/spreadsheets/d/1siMbL324IhNcKjkrEukAnT761hXNJp38/edit?usp=sharing&ouid=117327399531971816337&rtpof=true&sd=true)
+
+**Note:** The complete Excel workbook is relatively large (~120 MB)
+
+---
+
 # 🎯 Objectives
 
 The project was developed to:
